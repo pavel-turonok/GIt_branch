@@ -1,0 +1,11 @@
+ID    Tester Actions    Actual Result      Comment
+
+1     registration on      Passed 
+      the website
+
+2     authorization on     Passed  
+      the website
+
+3     upload pdf file      Draft           the pdf download module hasn't yet been implemented
+
+4     download doc file    Failed          Bug #3
